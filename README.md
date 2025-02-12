@@ -7,8 +7,11 @@ Upon the request of one of my clients, T. H. Executive Coaching is a business we
 ## Purpose
 Key expectations are to highlight USPs and create an attractive, but functional digital space where they can interact with their clients and be contacted. A space that is informative enough to grab attention, massage curiosity and motivate the viewer to share the website with others.
 
+## Mock-up
+![](assets/images/TH_Exe_Coaching.png)
+
 ## Website Link
-Click [**here.**](https://rodev-apps.github.io/Tina-s-Coaching/) to visit site.
+Click [**here.**](https://rodev-apps.github.io/TH_Exe_Coaching/) to visit site.
 
 ## Feedback
 Should you require further information, please check my social media links and/or feel free to reach out if you have any questions, queries, or suggestions. Thanks for stopping by.
